@@ -18,7 +18,7 @@ warnings.filterwarnings('ignore')
 
 
 # Load the dataset
-df = pd.read_csv('/content/cancer-risk-factors.csv')
+df = pd.read_csv("cancer-risk-factors.csv")
 
 # Streamlit app title and description
 st.title('Cancer Risk Factors Analysis Dashboard')
