@@ -1,3 +1,7 @@
+
+hosted on streamlit :- https://mldataanalytics-and-eda-swhpidgbf46ivngvswuifm.streamlit.app/
+
+
 # 🧠 Machine Learning EDA: Cancer Risk Factors
 
 This project explores a **machine learning-based exploratory data analysis (EDA)** workflow using a dataset of **cancer risk factors**. It aims to uncover patterns, correlations, and key insights that influence cancer risk through visualization and statistical analysis.
